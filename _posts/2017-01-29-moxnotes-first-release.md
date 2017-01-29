@@ -8,7 +8,7 @@ Yesterday at 1AM [Mox] is finally online! It has been in development for nearly 
 
 <br>
 
-##Major working features:
+## Major working features:
 1. All of the core functionality that is related to your notes. Create notes, create tags, modify them, delete them, filter them, import and export.
 2. All of the user authentication and billing stuff. You can register, log in, log out, update your billing information, cancel the subscription, request a password reset, request an email verification resend, update your email.
 
@@ -18,7 +18,7 @@ And of course –
 
 <br>
 
-##Major upcoming features:
+## Major upcoming features:
 1. Free, local version of Mox for people that don't need to syncing feature.
 2. Design for mobile and tablet
 
